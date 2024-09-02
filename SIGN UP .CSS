@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+   *{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color:black;
+}
+.container1{
+	margin-top: 2rem;
+	display:flex;
+	font-family: "Varela Round", sans-serif;
+}
+
+#heading {
+	height:5rem;
+	width:5rem;
+    margin-left: 45%;
+}
+span{
+	color:white;
+	font-size: 2rem;
+	align-self: center;
+}
+
+.container2{
+	 margin-top: 2rem;
+}
+.title{
+	color: white;
+	font-size: 40px;
+    margin-top: 1.5rem;
+    margin-left:35rem; 
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+}
+
+.container3{
+margin-top: 2rem;
+margin-left: 32rem;
+}
+input[type=text],input[type=password]{
+	width:365px;
+    height:30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family:  "Ubuntu", sans-serif;
+    font-weight: 400;
+    background-color: grey;
+    opacity: 30%;
+    font-weight: 600;
+    color: white;
+}
+
+::placeholder{
+	color: white;
+}
+
+#button{
+	margin-top: 2rem;
+}
+
+#btn1{
+font-family:"Ubuntu", sans-serif;
+padding:8px;
+margin-bottom: 20px;
+margin-top: 20px;
+width: 20rem;
+margin-left:1.5rem; 
+border-radius: 5px;
+}
+#bottom{
+	margin-left: 60px;
+}
