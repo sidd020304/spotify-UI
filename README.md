@@ -1,2 +1,2 @@
 # spotify-UI
-it is an user interface
+it is an user interface(not responsive)
