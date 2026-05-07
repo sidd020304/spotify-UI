@@ -4,3 +4,4 @@ I created a beginner-level music player UI project named Musify using raw HTML a
 
 ![image alt](https://github.com/sidd020304/spotify-UI/blob/main/sign%20up.jpg?raw=true)
 
+![image alt](https://github.com/sidd020304/spotify-UI/blob/main/login%20ss.jpg?raw=true)
